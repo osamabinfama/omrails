@@ -36,6 +36,8 @@ gem 'jquery-rails'
 
 # Bootstrap gem for design etc
 gem 'bootstrap', '~> 4.1.3'
+# Users dependency found here: https://github.com/plataformatec/devise
+gem 'devise'
 
 
 # Reduces boot times through caching; required in config/boot.rb
