@@ -38,6 +38,8 @@ gem 'jquery-rails'
 gem 'bootstrap', '~> 4.1.3'
 # Users dependency found here: https://github.com/plataformatec/devise
 gem 'devise'
+# Active admin
+gem 'activeadmin'
 
 
 # Reduces boot times through caching; required in config/boot.rb
