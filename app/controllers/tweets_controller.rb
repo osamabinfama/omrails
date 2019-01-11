@@ -1,4 +1,5 @@
 class TweetsController < ApplicationController
+  # before_action :authenticate_user!, only: [:index, :show]
   
   # GET /tweets
   def index
